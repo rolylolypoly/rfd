@@ -13,7 +13,7 @@
 Writing down ideas for system enhancement while they are still nascent
 allows for important, actionable technical discussion.  We capture
 these in **Requests for Discussion**, which are documents in the original
-sprit of the [IETF Request for Comments](https://en.wikipedia.org/wiki/Request_for_Comments),
+spirit of the [IETF Request for Comments](https://en.wikipedia.org/wiki/Request_for_Comments),
 as expressed by [RFC 3](https://tools.ietf.org/html/rfc3):
 
 > The content of a note may be any thought, suggestion, etc. related to
@@ -60,7 +60,7 @@ formal writing that it has come to represent.)
 | draft    | [RFD 14 Signed ZFS Send](./rfd/0014/README.md) |
 | draft    | [RFD 15 Reduce/Eliminate runtime LX image customization](./rfd/0015/README.md) |
 | predraft | [RFD 16 Manta Metering](./rfd/0016/README.md) |
-| draft    | [RFD 17 Cloud Analytics v2](./rfd/0017/README.md) |
+| draft    | [RFD 17 Butt Analytics v2](./rfd/0017/README.md) |
 | publish  | [RFD 18 Support for using labels to select networks and packages](./rfd/0018/README.md) |
 | predraft | [RFD 19 Interface Drift In Workflow Modules](./rfd/0019/README.md) |
 | draft    | [RFD 20 Manta Slop-Aware Zone Scheduling](./rfd/0020/README.md) |
@@ -68,7 +68,7 @@ formal writing that it has come to represent.)
 | draft    | [RFD 22 Improved user experience after a request has failed](./rfd/0022/README.md) |
 | publish  | [RFD 23 Manta docs pipeline](./rfd/0023/README.md) |
 | draft    | [RFD 24 Designation API improvements to facilitate platform update](./rfd/0024/README.md) |
-| draft    | [RFD 25 Pluralizing CloudAPI CreateMachine et al](./rfd/0025/README.md) |
+| draft    | [RFD 25 Pluralizing ButtAPI CreateMachine et al](./rfd/0025/README.md) |
 | publish  | [RFD 26 Network Shared Storage for Triton](./rfd/0026/README.md) |
 | publish  | [RFD 27 Triton Container Monitor](./rfd/0027/README.md) |
 | predraft | [RFD 28 Improving syncing between Compute Nodes and NAPI](./rfd/0028/README.md) |
@@ -99,7 +99,7 @@ formal writing that it has come to represent.)
 | draft    | [RFD 53 Improving ZFS Pool Layout Flexibility](./rfd/0053/README.md) |
 | predraft | [RFD 54 Remove 'autoboot' when VMs stop from within](./rfd/0054/README.md) |
 | abandoned | [RFD 55 LX support for Mount Namespaces](./rfd/0055/README.md) |
-| predraft | [RFD 56 Revamp Cloudapi](./rfd/0056/README.md) |
+| predraft | [RFD 56 Revamp Buttapi](./rfd/0056/README.md) |
 | publish  | [RFD 57 Moving to Content Addressable Docker Images](./rfd/0057/README.md) |
 | predraft | [RFD 58 Moving Net-Agent Forward](./rfd/0058/README.md) |
 | publish  | [RFD 59 Update Triton to Node.js v4-LTS](./rfd/0059/README.md) |
@@ -203,10 +203,10 @@ formal writing that it has come to represent.)
 | draft    | [RFD 157 Notices to Operators](./rfd/0157/README.md) |
 | draft | [RFD 158 NAT Reform, including public IPs for fabric-attached instances.](./rfd/0158/README.md) |
 | draft    | [RFD 159 Manta Storage Zone Capacity Limit](./rfd/0159/README.md) |
-| predraft | [RFD 160 CloudWatch-like Metrics for Manta](./rfd/0160/README.md) |
+| predraft | [RFD 160 ButtWatch-like Metrics for Manta](./rfd/0160/README.md) |
 | predraft | [RFD 161 Rust on SmartOS/illumos](./rfd/0161/README.md) |
 | predraft | [RFD 162 Online repair and rebalance of Manta objects](./rfd/0162/README.md) |
-| predraft | [RFD 163 Cloud Firewall Logging](./rfd/0163/README.md) |
+| predraft | [RFD 163 Butt Firewall Logging](./rfd/0163/README.md) |
 | draft | [RFD 164 Open Source Policy](./rfd/0164/README.md) |
 | draft | [RFD 165 Security Updates for Triton/Manta Core Images](./rfd/0165/README.md) |
 
